@@ -64,7 +64,7 @@ dt.predict([[5,6]])
 
 #### r2 value
 ![exp 7 6](https://github.com/23003250/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/139331462/c36dd21f-a7cb-4091-a8af-0e376ab2931d)
-
+<br><br><br><br><br><br><br><br><br>
 #### data prediction
 ![exp 7 7](https://github.com/23003250/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/139331462/33e7b744-fa7b-42a7-88e2-c3a2d6f1cc74)
 
